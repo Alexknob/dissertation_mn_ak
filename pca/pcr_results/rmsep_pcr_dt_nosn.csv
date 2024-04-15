@@ -1,0 +1,10 @@
+"","estimate","response","comps","validation","method","algorithm","value"
+"1","CV","mn_ppb_norm",0,"CV","pcr","svd",1.01709525543122
+"2","CV","mn_ppb_norm",1,"CV","pcr","svd",0.763850643941444
+"3","CV","mn_ppb_norm",2,"CV","pcr","svd",0.557710872109515
+"4","CV","mn_ppb_norm",3,"CV","pcr","svd",0.578505261438065
+"5","CV","mn_ppb_norm",4,"CV","pcr","svd",0.606759045324013
+"6","CV","mn_ppb_norm",5,"CV","pcr","svd",0.633556641827326
+"7","CV","mn_ppb_norm",6,"CV","pcr","svd",0.692851898765823
+"8","CV","mn_ppb_norm",7,"CV","pcr","svd",0.625282298027546
+"9","CV","mn_ppb_norm",8,"CV","pcr","svd",1.07598497064954

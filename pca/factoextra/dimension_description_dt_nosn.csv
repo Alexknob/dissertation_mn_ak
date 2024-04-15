@@ -1,0 +1,31 @@
+Dim.1
+quanti
+   ;correlation;p.value;
+mf;0.9026;0;
+ph;0.8792;0;
+mn_ppb;0.8025;0;
+fe_ppb;0.6982;0;
+al_ppb;0.5856;7e-04;
+doc_254;-0.5973;5e-04;
+moisture;-0.6364;2e-04;
+e254_356;-0.7833;0;
+om;-0.9026;0;
+
+Dim.2
+quanti
+   ;correlation;p.value;
+al_ppb;0.6525;1e-04;
+moisture;0.6062;4e-04;
+fe_ppb;0.5871;6e-04;
+doc_254;0.5699;0.001;
+mn_ppb;0.4736;0.0082;
+om;0.3732;0.0422;
+mf;-0.3732;0.0422;
+
+Dim.3
+quanti
+   ;correlation;p.value;
+doc_254;0.4369;0.0158;
+ph;-0.3699;0.0442;
+moisture;-0.4242;0.0195;
+

@@ -1,0 +1,16 @@
+Data: 	X dimension: 30 8 
+	Y dimension: 30 1
+Fit method: svdpc
+Number of components considered: 8
+
+VALIDATION: RMSEP
+Cross-validated using 10 random segments.
+       (Intercept)  1 comps  2 comps  3 comps  4 comps  5 comps  6 comps  7 comps  8 comps
+CV           1.635    1.135   0.9964   1.0046   0.9323   0.9597   0.8576   0.8918   1.0729
+adjCV        1.635    1.128   0.9906   0.9961   0.9213   0.9487   0.8469   0.8792   0.9469
+
+TRAINING: % variance explained
+            1 comps  2 comps  3 comps  4 comps  5 comps  6 comps  7 comps  8 comps
+X             58.44    81.40    89.56    94.40    97.53    99.40   100.00   100.00
+mn_ppb_log    57.89    69.24    71.54    78.04    78.61    82.87    82.96    82.96
+NULL
